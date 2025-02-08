@@ -2,7 +2,7 @@
 ## LEAD · JAVA · ANGULAR DEV
 
 ### Contact
-- 💼 [LinkedIn Profile URL]
+- 💼 [[LinkedIn Profile URL](https://www.linkedin.com/in/chazzgb/)]
 - 📍 Metro Manila, Philippines
 
 ### Profile
